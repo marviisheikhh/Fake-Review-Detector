@@ -5,6 +5,15 @@ An AI-powered web application designed to identify potentially fake online revie
 ## Project Overview
 Online fake reviews can mislead customers and affect business credibility. This project explores machine learning techniques to identify potentially deceptive reviews.
 
+## Dataset
+
+This project uses the Fake Reviews Dataset from Kaggle for training and evaluating the machine learning model.
+
+- Source: Kaggle
+- Dataset: Fake Reviews Dataset
+- Contributor: Mexwell
+- [View Dataset](https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset)
+
 ## Technologies Used
 - Python
 - Pandas and NumPy
