@@ -36,6 +36,14 @@ This project uses the Fake Reviews Dataset from Kaggle for training and evaluati
 - Text-based review prediction
 - Detection of potentially fake reviews
 
+## Application Screenshots
+
+### Review Analysis 1
+![Review Analysis 1](Analysed%20review%201.PNG)
+
+### Review Analysis 2
+![Review Analysis 2](Analysed%20review%202.PNG)
+
 ## Run Locally
 Install dependencies:
 ```bash
